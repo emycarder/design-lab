@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
+body {
+  font: 16px Montserrat, sans-serif;
+}
+
+/* Layout */
+.ba-container {
+  max-width: 900px;
+  text-align: center;
+  border: 2px solid black;
+  margin-top: 57px;
+  padding: 47px 180px;
+}
+
+.ba-wtf {
+  position: relative;
+  bottom: 84px;
+  background-color: #fff;
+  line-height: 1;
+  letter-spacing: 1.8px;
+}
+
+div {
+  margin-bottom: 132px;
+}
+
+h3 {
+  margin: 35px;
+  font-size: 20px;
+  letter-spacing: 1.8px;
+}
+
+p {
+  font-size: 13px;
+  line-height: 1.9;
+}
